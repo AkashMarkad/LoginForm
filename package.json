@@ -1,0 +1,19 @@
+{
+  "name": "transparent-loginform",
+  "version": "1.0.0",
+  "description": "This is sign in webpage with backend ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "mongoose": "^6.0.14",
+    "node": "^17.1.0",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2"
+  }
+}
